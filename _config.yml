@@ -16,10 +16,10 @@ markdown: kramdown
 ### content configuration ###
 title:       "EN"
 keywords:    "acadamic English"
-description: ""
+description: "My English Bank"
 # source_link: "https://github.com/t413/SinglePaged"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
+favicon:     "img/icon.ico"
+touch_icon:  "img/icon.ico"
 # google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
