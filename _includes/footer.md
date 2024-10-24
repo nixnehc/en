@@ -8,4 +8,4 @@ this site is [open source]({{ site.source_link }})
 -->
 
 
-©️Xin 2020--2024
+&copy; X. Chen  2020--2024
