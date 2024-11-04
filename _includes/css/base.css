@@ -283,7 +283,7 @@ body {
 
 .highlight pre, .highlight code { 
 	display:block; margin:0; padding:0; 
-	background: rgb(178, 228, 199); 
+	background: rgb(38, 39, 39); 
 	overflow:auto; word-wrap: normal; }
 
 .highlight, .linenodiv {
